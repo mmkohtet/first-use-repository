@@ -1,5 +1,0 @@
-	This is the test file of simple
-
-		first 
-			second
-				third`
